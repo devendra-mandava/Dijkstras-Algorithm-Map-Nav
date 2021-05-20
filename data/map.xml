@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mapSub>
+  <pointList>
+    
+    <point id="1" name="p1" x="220" y="203" type="3"/>
+    <point id="2" name="p2" x="165" y="363" type="3"/>
+    <point id="3" name="p3" x="130" y="480" type="3"/>
+    <point id="4" name="p4" x="116" y="570" type="3"/>
+
+    <point id="5" name="p5" x="318" y="177" type="3"/>
+    <point id="6" name="p6" x="295" y="310" type="3"/>
+    <point id="7" name="p7" x="220" y="495" type="3"/>
+    <point id="8" name="p8" x="380" y="585" type="3"/>
+    <point id="9" name="p9" x="401" y="585" type="3"/>
+
+    <point id="10" name="p10" x="519" y="342" type="3"/>
+    <point id="11" name="p11" x="570" y="221" type="3"/>
+    <point id="12" name="p12" x="557" y="104" type="3"/>
+    <point id="13" name="p13" x="560" y="348" type="3"/>
+    <point id="14" name="p14" x="520" y="597" type="3"/>
+    <point id="15" name="p15" x="648" y="607" type="3"/>
+    <point id="16" name="p16" x="685" y="358" type="3"/>
+    <point id="17" name="p17" x="725" y="203" type="3"/>
+    <point id="18" name="p18" x="744" y="112" type="3"/>
+    <point id="19" name="p19" x="380" y="164" type="3"/>
+    <point id="20" name="p20" x="495" y="114" type="3"/>
+    <point id="21" name="p21" x="895" y="120" type="3"/>
+    <point id="22" name="p22" x="885" y="231" type="3"/>
+    <point id="23" name="p23" x="1065" y="130" type="3"/>
+    <point id="24" name="p24" x="1045" y="249" type="3"/>
+    <point id="25" name="p25" x="1125" y="130" type="3"/>
+    <point id="26" name="p26" x="1180" y="255" type="3"/>
+    <point id="27" name="p27" x="1258" y="382" type="3"/>
+    <point id="28" name="p28" x="1035" y="379" type="3"/>
+    <point id="29" name="p29" x="416" y="507" type="3"/>
+    <point id="30" name="p30" x="1030" y="646" type="3"/>
+    <point id="31" name="p31" x="826" y="620" type="3"/>
+    <point id="32" name="p32" x="1305" y="680" type="3"/>
+    <point id="33" name="p33" x="1345" y="552" type="3"/>
+    
+    <point id="34" name="p34" x="1438" y="386" type="3"/>
+    <point id="35" name="p35" x="1517" y="83" type="3"/>
+    <point id="36" name="p36" x="1500" y="382" type="3"/>
+    <point id="37" name="p37" x="1442" y="690" type="3"/>
+    <point id="38" name="p38" x="1398" y="685" type="3"/>
+    <point id="39" name="p39" x="1339" y="114" type="3"/>
+    <point id="40" name="p40" x="444" y="409" type="3"/>
+    <point id="41" name="p41" x="809" y="379" type="3"/>
+    <point id="42" name="p42" x="782" y="614" type="3"/>
+   
+    <point id="43" name="p43" x="1320" y="548" type="3"/>
+     <point id="44" name="p44" x="1205" y="508" type="3"/>
+    <point id="45" name="p45" x="1208" y="386" type="3"/>
+    <point id="46" name="p46" x="1115" y="495" type="3"/>
+    <point id="47" name="p47" x="246" y="159" type="3"/>
+    <point id="48" name="p48" x="1498" y="543" type="3"/>
+
+
+    //green
+    <point id="49" name="p49" x="1515" y="629" type="2"/>
+    <point id="50" name="p50" x="1565" y="303" type="2"/>
+    <point id="51" name="p51" x="386" y="121" type="2"/>
+    <point id="52" name="p52" x="555" y="34" type="2"/>
+    <point id="53" name="p53" x="238" y="42" type="2"/>
+    <point id="54" name="p54" x="169" y="261" type="2"/>
+    <point id="55" name="p55" x="305" y="632" type="2"/>
+    <point id="56" name="p56" x="446" y="609" type="2"/>
+    <point id="57" name="p57" x="648" y="682" type="2"/>
+    <point id="58" name="p58" x="915" y="64" type="2"/>
+    <point id="59" name="p59" x="1329" y="52" type="2"/>
+    <point id="60" name="p60" x="583" y="282" type="2"/>
+    <point id="61" name="p61" x="1369" y="740" type="2"/>
+    <point id="62" name="p62" x="1225" y="460" type="2"/>
+    <point id="63" name="p63" x="1316" y="204" type="2"/>
+    <point id="64" name="p64" x="1323" y="328" type="2"/>
+    <point id="65" name="p65" x="1348" y="416" type="2"/>
+    <point id="66" name="p66" x="1457" y="497" type="2"/>
+    <point id="67" name="p67" x="1417" y="610" type="2"/>
+    <point id="68" name="p68" x="1000" y="228" type="2"/>
+    <point id="69" name="p69" x="604" y="368" type="2"/>
+
+    
+
+    
+    //red
+    <point id="70" name="p70" x="286" y="42" type="3"/>
+    <point id="71" name="p71" x="4" y="198" type="1"/>
+    <point id="72" name="p72" x="8" y="324" type="1"/>
+    <point id="73" name="p73" x="7" y="445" type="1"/>
+    <point id="74" name="p74" x="6" y="578" type="1"/>
+    <point id="75" name="p75" x="62" y="796" type="1"/>
+    <point id="76" name="p76" x="322" y="792" type="1"/>
+    <point id="77" name="p77" x="526" y="798" type="1"/>
+    <point id="78" name="p78" x="615" y="815" type="1"/>
+    <point id="79" name="p79" x="794" y="823" type="1"/>
+    <point id="80" name="p80" x="1416" y="830" type="1"/>
+    <point id="81" name="p81" x="1585" y="713" type="1"/>
+    <point id="82" name="p82" x="1586" y="361" type="3"/>
+    <point id="83" name="p83" x="1593" y="91" type="1"/>
+    <point id="84" name="p84" x="770" y="11" type="1"/>
+    <point id="85" name="p85" x="1057" y="14" type="1"/>
+    <point id="86" name="p86" x="1546" y="8" type="1"/>
+
+
+
+    <point id="87" name="p87" x="960" y="547" type="2"/>
+    <point id="88" name="p88" x="942" y="417" type="2"/>
+
+  </pointList>
+
+  <linkList>
+
+<link point1="1" point2="2"> </link>
+<link point1="2" point2="3"> </link>
+<link point1="3" point2="4"> </link>
+<link point1="1" point2="47"> </link>
+<link point1="47" point2="5"> </link>
+<link point1="5" point2="6"> </link>
+<link point1="6" point2="7"> </link>
+<link point1="4" point2="8"> </link>
+<link point1="8" point2="9"> </link>
+
+<link point1="19" point2="20"> </link>
+<link point1="5" point2="19"> </link>
+<link point1="20" point2="12"> </link>
+<link point1="5" point2="19"> </link>
+<link point1="12" point2="18"> </link>
+<link point1="18" point2="21"> </link>
+<link point1="21" point2="23"> </link>
+<link point1="23" point2="25"> </link>
+<link point1="25" point2="39"> </link>
+<link point1="39" point2="35"> </link>
+<link point1="35" point2="36"> </link>
+<link point1="36" point2="34"> </link>
+<link point1="34" point2="27"> </link>
+<link point1="27" point2="45"> </link>
+<link point1="28" point2="45"> </link>
+<link point1="16" point2="13"> </link>
+<link point1="13" point2="10"> </link>
+<link point1="10" point2="11"> </link>
+<link point1="11" point2="12"> </link>
+<link point1="39" point2="35"> </link>
+<link point1="11" point2="17"> </link>
+<link point1="17" point2="22"> </link>
+<link point1="17" point2="18"> </link>
+<link point1="22" point2="21"> </link>
+<link point1="24" point2="23"> </link>
+<link point1="22" point2="24"> </link>
+<link point1="24" point2="26"> </link>
+<link point1="25" point2="26"> </link>
+<link point1="26" point2="27"> </link>
+<link point1="36" point2="48"> </link>
+<link point1="48" point2="37"> </link>
+<link point1="37" point2="38"> </link>
+<link point1="38" point2="33"> </link>
+<link point1="33" point2="34"> </link>
+<link point1="33" point2="27"> </link>
+<link point1="38" point2="32"> </link>
+<link point1="32" point2="43"> </link>
+<link point1="43" point2="33"> </link>
+<link point1="28" point2="24"> </link>
+<link point1="16" point2="41"> </link>
+<link point1="41" point2="28"> </link>
+<link point1="42" point2="41"> </link>
+<link point1="29" point2="40"> </link>
+<link point1="40" point2="10"> </link>
+<link point1="9" point2="29"> </link>
+<link point1="9" point2="14"> </link>
+<link point1="14" point2="15"> </link>
+<link point1="15" point2="16"> </link>
+<link point1="15" point2="31"> </link>
+<link point1="31" point2="30"> </link>
+<link point1="30" point2="28"> </link>
+<link point1="30" point2="32"> </link>
+<link point1="7" point2="29"> </link>
+<link point1="17" point2="16"> </link>
+<link point1="44" point2="45"> </link>
+<link point1="44" point2="43"> </link>
+<link point1="44" point2="46"> </link>
+<link point1="19" point2="11"> </link>
+<link point1="1" point2="54"> </link>
+<link point1="19" point2="51"> </link>
+<link point1="11" point2="60"> </link>
+<link point1="8" point2="55"> </link>
+<link point1="9" point2="56"> </link>
+<link point1="15" point2="57"> </link>
+<link point1="44" point2="62"> </link>
+<link point1="38" point2="61"> </link>
+<link point1="48" point2="49"> </link>
+<link point1="12" point2="52"> </link>
+<link point1="21" point2="58"> </link>
+<link point1="39" point2="59"> </link>
+<link point1="47" point2="70"> </link>
+<link point1="1" point2="71"> </link>
+<link point1="2" point2="72"> </link>
+<link point1="3" point2="73"> </link>
+<link point1="4" point2="74"> </link>
+<link point1="4" point2="75"> </link>
+<link point1="9" point2="76"> </link>
+<link point1="14" point2="77"> </link>
+<link point1="15" point2="78"> </link>
+<link point1="31" point2="79"> </link>
+<link point1="37" point2="80"> </link>
+<link point1="37" point2="81"> </link>
+<link point1="36" point2="82"> </link>
+<link point1="35" point2="83"> </link>
+<link point1="35" point2="86"> </link>
+<link point1="25" point2="85"> </link>
+<link point1="18" point2="84"> </link>
+<link point1="13" point2="69"> </link>
+<link point1="24" point2="68"> </link>
+<link point1="39" point2="63"> </link>
+<link point1="27" point2="64"> </link>
+<link point1="34" point2="65"> </link>
+<link point1="48" point2="66"> </link>
+<link point1="38" point2="67"> </link>
+<link point1="30" point2="87"> </link>
+<link point1="28" point2="88"> </link>
+<link point1="53" point2="70"> </link>
+<link point1="82" point2="50"> </link>
+
+    
+
+  </linkList>
+
+
+
+</mapSub>
